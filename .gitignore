@@ -1,0 +1,15 @@
+/*.gem
+*.rbc
+~*
+#*
+*~
+.rvmrc
+.bundle
+Gemfile.lock
+
+spec/amqp.yml
+vendor
+
+.yardoc/*
+doc/*
+tmp/*
